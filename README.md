@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @linoribeiro
+- 👀 I’m interested in building cnc machine and laser engraver
+- 🌱 I’m currently learning how to use arduino an grbl
+- 💞️ I’m looking to collaborate on what ever my limited knowledge allows
+- 📫 You can contact thrue linor165@gmail.com
